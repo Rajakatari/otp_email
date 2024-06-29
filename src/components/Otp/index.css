@@ -1,0 +1,27 @@
+.otp-fields {
+  display: flex;
+}
+.otp-shell {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.back-button {
+  cursor: pointer;
+  font-size: 25px;
+}
+.otp-login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.success-logo {
+  font-size: 100px;
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  transition: width 3s;
+}

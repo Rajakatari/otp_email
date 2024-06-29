@@ -1,0 +1,18 @@
+.form-input-main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.form-card {
+  border: 2px solid grey;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.form-card img {
+  max-height: 300px;
+  align-self: center;
+}
